@@ -1,0 +1,5 @@
+{
+  "name": "Pokémon Ultra FX",
+  "description": "A modernized, high-fidelity Pokémon battle engine featuring the Physical/Special split, accurate Gen 3+ damage formulas, speed priority logic, and dynamic particle effects.",
+  "requestFramePermissions": []
+}
